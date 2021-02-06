@@ -1,2 +1,4 @@
 # ITEC-3020-Web-Technologies
-Assignments for ITEC 3020
+
+Assignment for Winter ITEC 3020 Section M
+by Christopher Nguyen and Faith-Valentine Uzoka.
